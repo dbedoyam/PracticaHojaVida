@@ -1,4 +1,3 @@
-Hoja de Vida Ejemplo
-Curso GIT Sofka Academy
+Hoja de Vida
 Basado en un tema de TemplateFlip
 
